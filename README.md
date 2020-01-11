@@ -1,2 +1,2 @@
 # Labyrinthe
-Jeux de labyrinthe sur la console python
+Jeu de labyrinthe sur la console python.
